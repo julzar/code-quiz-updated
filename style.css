@@ -1,0 +1,25 @@
+/* div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+} */
+
+.choice-el {
+    text-align: start;
+}
+
+#timer {
+    display: none;
+    font-family: fantasy;
+    font-size: 200%;
+    color: limegreen;
+}
+
+.text-link:hover {
+    cursor: pointer;
+    color: royalblue;
+}
+
+ul {
+    list-style-type: none;
+}
